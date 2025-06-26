@@ -1,0 +1,26 @@
+[
+  {
+    "id": "prod_1750927201641",
+    "name": "Dell Elitebook E7470",
+    "brand": "Dell",
+    "price": 50000,
+    "condition": "New",
+    "images": [
+      "/uploads/product-1750927201639-23898389.jpeg",
+      "/uploads/product-1750929620038-143676546.jpeg",
+      "/uploads/product-1750929620038-255547716.jpeg",
+      "/uploads/product-1750929620039-367722897.jpeg",
+      "/uploads/product-1750929620039-600479427.jpeg"
+    ],
+    "specs": {
+      "processor": "Core i5 7th gen",
+      "ram": "8GB",
+      "storage": "256 GB SSD",
+      "display": "14\" Full HD",
+      "battery": "10/10"
+    },
+    "description": "Specifications:\n   ♦ Processor: Intel Core i5 6th Generation\n   ♦ Memory: 8GB DDR4 RAM\n   ♦ Storage: 256GB M.2 SSD\n   ♦ Display: 14\" Full HD (1920 x 1080)\n   ♦ Graphics: Integrated Intel HD Graphics\n   ♦ Operating System: Windows 10/11\n   ♦ Battery: Lithium-ion with strong backup performance\n   ♦ Condition: Gently used, well-maintained\n\nFeatures:\n   ♦ High-resolution FHD display for enhanced visual clarity\n   ♦ Fast SSD storage for quicker boot times and smooth performance\n   ♦ Built-in WiFi, webcam, speakers, and LED display – all fully functional\n   ♦ Durable business-class design ideal for professional and academic use\n\nAdditional Notes:\n   ♦ Excellent value for professionals, students, or general office use\n   ♦ Slim and portable with reliable battery life\n   ♦ Device has been tested and is in good working condition",
+    "featured": false,
+    "newArrival": true
+  }
+]
